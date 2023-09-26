@@ -1,0 +1,1 @@
+Basic Notepad file which is being used for creating first repository.
